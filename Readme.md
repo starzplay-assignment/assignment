@@ -16,7 +16,7 @@ Build Restful API for a simple media filter using Spring Boot, Jackson.
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial.git
+git clone https://github.com/starzplay-assignment/assignment.git
 ```
 
 
